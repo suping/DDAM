@@ -1,0 +1,245 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Version-consistent dynamic reconfiguration of CBDS
+
+
+From: 'an unknown organization'
+  - Code Generation Library (http://cglib.sourceforge.net/) cglib:cglib:jar:2.2
+    License: ASF 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Version-consistent dynamic reconfiguration of CBDS  cn.edu.nju.moon:vc-printer:jar:0.0.1-SNAPSHOT
+
+  - version-consistency Maven Plugin (http://maven.apache.org) cn.edu.nju.moon:version-consistency-trace:jar:0.0.1-SNAPSHOT
+
+  - JavaMail API (https://glassfish.dev.java.net/javaee5/mail/) javax.mail:mail:jar:1.4
+    License: Common Development and Distribution License (CDDL) v1.0  (https://glassfish.dev.java.net/public/CDDLv1.0.html)
+  - servlet-api  javax.servlet:servlet-api:jar:2.4
+
+  - transaction-api  javax.transaction:transaction-api:jar:1.1
+
+  - htmlparser (http://about.validator.nu/htmlparser/) nu.validator.htmlparser:htmlparser:jar:1.0.5
+    License: The MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - Jettison  org.codehaus.jettison:jettison:bundle:1.2
+
+  - jabsorb (http://jabsorb.org) org.jabsorb:jabsorb:jar:1.3.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - StAX API (http://stax.codehaus.org/) stax:stax-api:jar:1.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WSDL4J (http://sf.net/projects/wsdl4j) wsdl4j:wsdl4j:jar:1.6.2
+    License: CPL  (http://www.opensource.org/licenses/cpl1.0.txt)
+  - xml-apis (http://xml.apache.org/commons/#external) xml-apis:xml-apis:jar:1.3.02
+
+
+From: 'Apache Software Foundation' (http://jakarta.apache.org/)
+  - HttpClient (http://jakarta.apache.org/httpcomponents/httpclient-3.x/) commons-httpclient:commons-httpclient:jar:3.1
+    License: Apache License  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Activation 1.1 (http://geronimo.apache.org/specs/geronimo-activation_1.1_spec) org.apache.geronimo.specs:geronimo-activation_1.1_spec:bundle:1.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Streaming API for XML (STAX API 1.0) (http://geronimo.apache.org/specs/geronimo-stax-api_1.0_spec) org.apache.geronimo.specs:geronimo-stax-api_1.0_spec:bundle:1.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache Software Foundation' (http://www.apache.org/)
+  - Abdera Client (http://abdera.apache.org/abdera-client) org.apache.abdera:abdera-client:bundle:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Abdera Core (http://abdera.apache.org/abdera-core) org.apache.abdera:abdera-core:bundle:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Abdera Extensions - HTML (http://abdera.apache.org/abdera-extensions-html) org.apache.abdera:abdera-extensions-html:bundle:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Abdera Extensions - JSON (http://abdera.apache.org/abdera-extensions-json) org.apache.abdera:abdera-extensions-json:bundle:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Abdera Extensions - Main (http://abdera.apache.org/abdera-extensions-main) org.apache.abdera:abdera-extensions-main:bundle:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - I18N Libraries (http://abdera.apache.org) org.apache.abdera:abdera-i18n:bundle:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Abdera Parser (http://abdera.apache.org/abdera-parser) org.apache.abdera:abdera-parser:bundle:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Abdera Server (http://abdera.apache.org/abdera-server) org.apache.abdera:abdera-server:bundle:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - HttpClient (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient:jar:4.0.3
+    License: Apache License  (../LICENSE.txt)
+  - HttpCore (http://hc.apache.org/httpcomponents-core/) org.apache.httpcomponents:httpcore:jar:4.0.1
+    License: Apache License  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Maven Plugin API (http://maven.apache.org/maven2/maven-plugin-api/) org.apache.maven:maven-plugin-api:jar:2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Neethi (http://ws.apache.org/commons/neethi/) org.apache.neethi:neethi:jar:2.0.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Codehaus' (http://codehaus.org)
+  - jaxen (http://jaxen.codehaus.org/) jaxen:jaxen:jar:1.1.1
+
+
+From: 'Codehaus' (http://www.codehaus.org/)
+  - Woodstox (http://woodstox.codehaus.org) org.codehaus.woodstox:wstx-asl:jar:3.2.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'FasterXML' (http://fasterxml.com)
+  - Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-core-asl:jar:1.8.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Data Mapper for Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-mapper-asl:jar:1.8.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Xml Compatibility extensions for Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-xc:jar:1.8.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)    License: GNU Lesser General Public License (LGPL), Version 2.1  (http://www.fsf.org/licensing/licenses/lgpl.txt)
+
+From: 'Hazel Bilisim Ltd.' (http://www.hazelcast.com/)
+  - hazelcast (http://www.hazelcast.com/hazelcast/) com.hazelcast:hazelcast:jar:1.9.2.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hazelcast-client (http://www.hazelcast.com/hazelcast-client/) com.hazelcast:hazelcast-client:jar:1.9.2.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Mort Bay Consulting' (http://www.mortbay.com)
+  - Jetty Server (http://www.eclipse.org/jetty/jetty-parent/project/modules/jetty) org.mortbay.jetty:jetty:jar:6.1.19
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty Utilities (http://www.eclipse.org/jetty/jetty-parent/project/jetty-util) org.mortbay.jetty:jetty-util:jar:6.1.19
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Servlet Specification API (http://jetty.mortbay.org/servlet-api) org.mortbay.jetty:servlet-api:jar:2.5-20081211
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/) asm:asm:jar:3.1
+
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.6.1
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J JDK14 Binding (http://www.slf4j.org) org.slf4j:slf4j-jdk14:jar:1.6.1
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'The Apache Software Foundation' (http://www.apache.org)
+  - JavaMail 1.4 (http://geronimo.apache.org/maven/specs/geronimo-javamail_1.4_spec/1.6) org.apache.geronimo.specs:geronimo-javamail_1.4_spec:bundle:1.6
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons Codec (http://commons.apache.org/codec/) commons-codec:commons-codec:jar:1.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Logging (http://commons.apache.org/logging) commons-logging:commons-logging:jar:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Assembly Model (http://tuscany.apache.org/tuscany-modules/tuscany-assembly) org.apache.tuscany.sca:tuscany-assembly:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Assembly XML Model (http://tuscany.apache.org/tuscany-modules/tuscany-assembly-xml) org.apache.tuscany.sca:tuscany-assembly-xml:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Assembly Model XSD Files (http://tuscany.apache.org/tuscany-modules/tuscany-assembly-xsd) org.apache.tuscany.sca:tuscany-assembly-xsd:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Base Runtime POM (http://tuscany.apache.org/tuscany-modules/tuscany-base-runtime-pom) org.apache.tuscany.sca:tuscany-base-runtime-pom:pom:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Atom Feed Binding Extension (http://tuscany.apache.org/tuscany-modules/tuscany-binding-atom) org.apache.tuscany.sca:tuscany-binding-atom:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Abdera Atom Feed Binding Extension (http://tuscany.apache.org/tuscany-modules/tuscany-binding-atom-runtime) org.apache.tuscany.sca:tuscany-binding-atom-runtime:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA HTTP Binding Model (http://tuscany.apache.org/tuscany-modules/tuscany-binding-http) org.apache.tuscany.sca:tuscany-binding-http:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA HTTP Binding Runtime (http://tuscany.apache.org/tuscany-modules/tuscany-binding-http-runtime) org.apache.tuscany.sca:tuscany-binding-http-runtime:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA JSON-RPC Binding Model (http://tuscany.apache.org/tuscany-modules/tuscany-binding-jsonrpc) org.apache.tuscany.sca:tuscany-binding-jsonrpc:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA JSON-RPC Binding Runtime (http://tuscany.apache.org/tuscany-modules/tuscany-binding-jsonrpc-runtime) org.apache.tuscany.sca:tuscany-binding-jsonrpc-runtime:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Binding SCA Runtime (http://tuscany.apache.org/tuscany-modules/tuscany-binding-sca-runtime) org.apache.tuscany.sca:tuscany-binding-sca-runtime:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA WS Binding Model (http://tuscany.apache.org/tuscany-modules/tuscany-binding-ws) org.apache.tuscany.sca:tuscany-binding-ws:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA JAXWS-based WS Binding Extension (http://tuscany.apache.org/tuscany-modules/tuscany-binding-ws-runtime-jaxws) org.apache.tuscany.sca:tuscany-binding-ws-runtime-jaxws:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA JAXWS RI based WS Binding Extension (http://tuscany.apache.org/tuscany-modules/tuscany-binding-ws-runtime-jaxws-ri) org.apache.tuscany.sca:tuscany-binding-ws-runtime-jaxws-ri:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Web Service binding WSDL Generator (http://tuscany.apache.org/tuscany-modules/tuscany-binding-ws-wsdlgen) org.apache.tuscany.sca:tuscany-binding-ws-wsdlgen:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Model Builders (http://tuscany.apache.org/tuscany-modules/tuscany-builder) org.apache.tuscany.sca:tuscany-builder:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Common HTTP (http://tuscany.apache.org/tuscany-modules/tuscany-common-http) org.apache.tuscany.sca:tuscany-common-http:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Common Java (http://tuscany.apache.org/tuscany-modules/tuscany-common-java) org.apache.tuscany.sca:tuscany-common-java:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Common XML (http://tuscany.apache.org/tuscany-modules/tuscany-common-xml) org.apache.tuscany.sca:tuscany-common-xml:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Contribution Model (http://tuscany.apache.org/tuscany-modules/tuscany-contribution) org.apache.tuscany.sca:tuscany-contribution:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Core Runtime (http://tuscany.apache.org/tuscany-modules/tuscany-core) org.apache.tuscany.sca:tuscany-core:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Core/DataBinding Integration (http://tuscany.apache.org/tuscany-modules/tuscany-core-databinding) org.apache.tuscany.sca:tuscany-core-databinding:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Core Runtime POM (http://tuscany.apache.org/tuscany-modules/tuscany-core-runtime-pom) org.apache.tuscany.sca:tuscany-core-runtime-pom:pom:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Core SPI (http://tuscany.apache.org/tuscany-modules/tuscany-core-spi) org.apache.tuscany.sca:tuscany-core-spi:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Data API (http://tuscany.apache.org/tuscany-modules/tuscany-data-api) org.apache.tuscany.sca:tuscany-data-api:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA DataBinding Framework (http://tuscany.apache.org/tuscany-modules/tuscany-databinding) org.apache.tuscany.sca:tuscany-databinding:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA DataBinding for JAXB (http://tuscany.apache.org/tuscany-modules/tuscany-databinding-jaxb) org.apache.tuscany.sca:tuscany-databinding-jaxb:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Data Binding for JSON (http://tuscany.apache.org/tuscany-modules/tuscany-databinding-json) org.apache.tuscany.sca:tuscany-databinding-json:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Deployment (http://tuscany.apache.org/tuscany-modules/tuscany-deployment) org.apache.tuscany.sca:tuscany-deployment:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA EndPoint Registry using Hazelcast (http://tuscany.apache.org/tuscany-modules/tuscany-domain-hazelcast) org.apache.tuscany.sca:tuscany-domain-hazelcast:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Domain Node (http://tuscany.apache.org/tuscany-modules/tuscany-domain-node) org.apache.tuscany.sca:tuscany-domain-node:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Extensibility (http://tuscany.apache.org/tuscany-modules/tuscany-extensibility) org.apache.tuscany.sca:tuscany-extensibility:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA HTTP Servlet Host Extension Point (http://tuscany.apache.org/tuscany-modules/tuscany-host-http) org.apache.tuscany.sca:tuscany-host-http:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Jetty Servlet Host Extension (http://tuscany.apache.org/tuscany-modules/tuscany-host-jetty) org.apache.tuscany.sca:tuscany-host-jetty:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Implementation Java Model (http://tuscany.apache.org/tuscany-modules/tuscany-implementation-java) org.apache.tuscany.sca:tuscany-implementation-java:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Implementation Java Runtime (http://tuscany.apache.org/tuscany-modules/tuscany-implementation-java-runtime) org.apache.tuscany.sca:tuscany-implementation-java-runtime:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Script Implementation Model (http://tuscany.apache.org/tuscany-modules/tuscany-implementation-script) org.apache.tuscany.sca:tuscany-implementation-script:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Web Implementation Model (http://tuscany.apache.org/tuscany-modules/tuscany-implementation-web) org.apache.tuscany.sca:tuscany-implementation-web:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Widget Implementation Model (http://tuscany.apache.org/tuscany-modules/tuscany-implementation-widget) org.apache.tuscany.sca:tuscany-implementation-widget:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Widget Implementation Runtime (http://tuscany.apache.org/tuscany-modules/tuscany-implementation-widget-runtime) org.apache.tuscany.sca:tuscany-implementation-widget-runtime:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Widget Implementation Runtime (Dojo) (http://tuscany.apache.org/tuscany-modules/tuscany-implementation-widget-runtime-dojo) org.apache.tuscany.sca:tuscany-implementation-widget-runtime-dojo:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Interface Java Model (http://tuscany.apache.org/tuscany-modules/tuscany-interface-java) org.apache.tuscany.sca:tuscany-interface-java:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Interface Java For JAXWS (http://tuscany.apache.org/tuscany-modules/tuscany-interface-java-jaxws) org.apache.tuscany.sca:tuscany-interface-java-jaxws:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA WSDL Interface Model (http://tuscany.apache.org/tuscany-modules/tuscany-interface-wsdl) org.apache.tuscany.sca:tuscany-interface-wsdl:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Launcher (http://tuscany.apache.org/tuscany-modules/tuscany-launcher) org.apache.tuscany.sca:tuscany-launcher:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Monitor (http://tuscany.apache.org/tuscany-modules/tuscany-monitor) org.apache.tuscany.sca:tuscany-monitor:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Node API (http://tuscany.apache.org/tuscany-modules/tuscany-node-api) org.apache.tuscany.sca:tuscany-node-api:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Node Implementation (http://tuscany.apache.org/tuscany-modules/tuscany-node-impl) org.apache.tuscany.sca:tuscany-node-impl:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA API (http://tuscany.apache.org/tuscany-modules/tuscany-sca-api) org.apache.tuscany.sca:tuscany-sca-api:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Client Impl (http://tuscany.apache.org/tuscany-modules/tuscany-sca-client-impl) org.apache.tuscany.sca:tuscany-sca-client-impl:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Shell (http://tuscany.apache.org/tuscany-modules/tuscany-shell) org.apache.tuscany.sca:tuscany-shell:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Web JavaScript (http://tuscany.apache.org/tuscany-modules/tuscany-web-javascript) org.apache.tuscany.sca:tuscany-web-javascript:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Web JavaScript for DOJO (http://tuscany.apache.org/tuscany-modules/tuscany-web-javascript-dojo) org.apache.tuscany.sca:tuscany-web-javascript-dojo:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA Apache Wink JAX-RS Integration (http://tuscany.apache.org/tuscany-modules/tuscany-wink) org.apache.tuscany.sca:tuscany-wink:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Tuscany SCA XSD Model (http://tuscany.apache.org/tuscany-modules/tuscany-xsd) org.apache.tuscany.sca:tuscany-xsd:jar:2.0-Beta3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Axiom API (http://ws.apache.org/axiom/axiom-api/) org.apache.ws.commons.axiom:axiom-api:bundle:1.2.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Axiom Impl (http://ws.apache.org/axiom/axiom-impl/) org.apache.ws.commons.axiom:axiom-impl:bundle:1.2.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - XmlSchema (http://ws.apache.org/commons/XmlSchema) org.apache.ws.commons.schema:XmlSchema:jar:1.4.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Xerces2 Java Parser (http://xerces.apache.org/xerces2-j) xerces:xercesImpl:jar:2.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Dojo Foundation' (http://dojotoolkit.org/foundation)
+  - Dojo Toolkit :: Bundles (http://dojotoolkit.org) org.dojotoolkit:dojo:pom:1.5.0
+    License: Academic Free License v2.1  (http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE)    License: BSD License  (http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE)
+
+
+
+

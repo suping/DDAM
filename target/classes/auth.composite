@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<composite	xmlns="http://docs.oasis-open.org/ns/opencsa/sca/200912"
+		xmlns:tuscany="http://tuscany.apache.org/xmlns/sca/1.1"
+		xmlns:sca="http://docs.oasis-open.org/ns/opencsa/sca/200912"
+		targetNamespace="http://store"
+		name="auth-node"
+		 >
+		   
+	<!-- requires="trace" policySets="traceImplPolicySet traceBindingPolicySet"-->
+		   
+	<component name="TokenComponent">
+		<implementation.java class="services.TokenServiceImpl" 
+			requires="trace" policySets="traceImplPolicySet" />
+		<service name="TokenService" requires="trace" policySets="traceBindingPolicySet">
+			<tuscany:binding.jsonrpc uri="http://114.212.84.46:8081/TokenComponent/TokenService" />
+		</service>
+	</component>
+	
+	<component name="VerificationComponent">
+		<implementation.java class="services.VerificationServiceImpl"/>
+		<service name="VerificationService">
+			<tuscany:binding.jsonrpc uri="http://114.212.84.46:8082/VerificationComponent/VerificationService" />
+		</service>
+	</component>
+	
+</composite>
