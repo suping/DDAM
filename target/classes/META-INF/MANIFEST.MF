@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: SuPing
+Build-Jdk: 1.6.0_10-rc
+Specification-Title: Version-consistent dynamic reconfiguration of CBDS
+Specification-Version: 0.0.1-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Implementation-Version: 0.0.1-SNAPSHOT
+Extension-Name: vc-policy-portal-node
+Implementation-Vendor-Id: org.apache
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Title: Version-consistent dynamic reconfiguration of CBDS
+Created-By: Maven Integration for Eclipse
+
